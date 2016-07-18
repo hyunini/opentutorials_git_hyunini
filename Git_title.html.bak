@@ -24,6 +24,11 @@
 			<li>pull</li>
 			<li>push.egoing</li>
 			<li>push.test</li>
+<<<<<<< HEAD
+			<li>conflict.egoing</li>
+=======
+			<li>conflict.test</li>
+>>>>>>> c5d9df2e4e805c711447a14b4e97a0ee0da5b8b9
         </ul>
 
     </body>
